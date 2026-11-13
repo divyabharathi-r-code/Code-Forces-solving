@@ -19,7 +19,7 @@ Problems are organized based on their **Codeforces difficulty rating**.
 
 | Rating | Problems Solved |
 | ------ | --------------- |
-| 800    | 16              |
+| 800    | 20              |
 | 900    | 0               |
 | 1000   | 0               |
 | 1100+  | 0               |
