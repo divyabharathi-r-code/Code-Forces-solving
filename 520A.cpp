@@ -13,7 +13,7 @@ int main() {
   }
   unordered_set<char> uni;
   for(char c:s){
-   uni.insert(c);
+   uni.insert(tolower(c));
   }
   if(uni.size() == 26){ 
       cout<<"YES";
